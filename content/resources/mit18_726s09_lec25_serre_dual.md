@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: Cohen-Macaulay schemes and Serre duality
 uid: 0ea66a0b-dcf4-f812-7c82-6882531f1642

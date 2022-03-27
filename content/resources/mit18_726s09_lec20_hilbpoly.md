@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: "Hilbert polynomials and \uFB02atness"
 uid: 7bec7185-8a6e-05ad-f2ee-9c1e419b4aa6

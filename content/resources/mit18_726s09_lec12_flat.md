@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: 'Flat morphisms and descent '
 uid: abf8e0d9-14ab-28e7-d82b-156fa18c0dce

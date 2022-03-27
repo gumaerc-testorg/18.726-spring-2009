@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: More properties of morphisms
 uid: 2e899e17-5480-22bf-832e-13d6a3a1d790

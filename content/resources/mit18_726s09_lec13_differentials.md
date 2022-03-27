@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: "Di\uFB00erentials"
 uid: 922efb49-131c-1270-1239-4d6643d350cc

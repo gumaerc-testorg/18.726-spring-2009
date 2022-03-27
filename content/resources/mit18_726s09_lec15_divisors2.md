@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: Divisors on curves and Riemann-Roch
 uid: 61d8135f-20b0-57eb-eee0-f387e612985a

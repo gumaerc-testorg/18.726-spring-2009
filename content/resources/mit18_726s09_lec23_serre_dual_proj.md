@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: Serre duality for projective space
 uid: 3e1b3cc3-a5b2-d36c-6d0b-bfe4730101ce

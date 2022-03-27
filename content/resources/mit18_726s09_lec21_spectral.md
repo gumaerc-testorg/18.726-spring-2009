@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: "Spectral sequences and \u010Cech cohomology"
 uid: 587b91ca-dc83-f2f4-1679-3c58befe058a
