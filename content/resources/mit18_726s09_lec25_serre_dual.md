@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Cohen-Macaulay schemes and Serre duality.
-file: /media/courses/18-726-algebraic-geometry-spring-2009/0ea66a0bdcf4f8127c826882531f1642_MIT18_726s09_lec25_serre_dual.pdf
+file: /courses/18-726-algebraic-geometry-spring-2009/0ea66a0bdcf4f8127c826882531f1642_MIT18_726s09_lec25_serre_dual.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Cohen-Macaulay schemes and Serre duality
 uid: 0ea66a0b-dcf4-f812-7c82-6882531f1642
 ---
+Lecture notes on Cohen-Macaulay schemes and Serre duality.
+
