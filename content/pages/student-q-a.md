@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides answers from Professor Kedlaya to some of the questions
+  commonly asked by students in the class.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Student Q&A
 uid: 1834d2ae-bf9b-e9f5-6f0f-4501670488c8
 ---

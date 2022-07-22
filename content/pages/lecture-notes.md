@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with the
+  schedule of lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 48634407-a57b-9413-2aef-86e097164ee5
 ---
@@ -24,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and overview ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec01_intro))
+Introduction and overview ({{% resource_link f784b273-adad-4690-f82c-017919d3c841 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ Introduction and overview ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec01_in
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Basics of category theory ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec02_categories))
+Basics of category theory ({{% resource_link 7f9d4e4e-8685-6aa4-b678-8b568db4261f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Basics of category theory ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec02_ca
 3-5
 {{< tdclose >}}
 {{< tdopen >}}
-Sheaves ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec03_sheaves))
+Sheaves ({{% resource_link f20e0e9c-ada2-de9f-19ed-6718a94371f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +56,7 @@ Sheaves ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec03_sheaves))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Abelian sheaves ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec04_abelian_sheaves))
+Abelian sheaves ({{% resource_link db765c65-b2e4-4272-d960-66e05d07e0cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ Abelian sheaves ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec04_abelian_shea
 6-7
 {{< tdclose >}}
 {{< tdopen >}}
-Schemes ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec05_schemes))
+Schemes ({{% resource_link dd1038eb-33c6-2da2-03ec-2b6a0409a0f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ Schemes ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec05_schemes))
 7-9
 {{< tdclose >}}
 {{< tdopen >}}
-Morphisms of schemes ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec06_morphisms))
+Morphisms of schemes ({{% resource_link bd9b595b-79e8-b42d-2934-524c766e5188 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Morphisms of schemes ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec06_morphis
 9-10
 {{< tdclose >}}
 {{< tdopen >}}
-Sheaves of modules ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec07_modules))
+Sheaves of modules ({{% resource_link 1645cd9d-f8a4-e354-c707-fb7187903baf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +92,7 @@ Sheaves of modules ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec07_modules))
 11-12
 {{< tdclose >}}
 {{< tdopen >}}
-More properties of morphisms ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec08_finite_type))
+More properties of morphisms ({{% resource_link 2e899e17-5480-22bf-832e-13d6a3a1d790 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ More properties of morphisms ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec08
 12-13
 {{< tdclose >}}
 {{< tdopen >}}
-Projective morphisms, part 1 ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec09_projective))
+Projective morphisms, part 1 ({{% resource_link 9a1598a1-4233-05b4-9e4f-b064b437a952 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ Projective morphisms, part 1 ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec09
 13-14
 {{< tdclose >}}
 {{< tdopen >}}
-Projective morphisms, part 2 ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec10_projective2))
+Projective morphisms, part 2 ({{% resource_link 28085dd9-9a56-c6c2-dff0-4287b7c92a43 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Projective morphisms, part 2 ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec10
 15
 {{< tdclose >}}
 {{< tdopen >}}
-More properties of schemes ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec11_more_schemes))
+More properties of schemes ({{% resource_link 3723a99e-97b5-8182-8fd7-82b9ffd83921 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +128,7 @@ More properties of schemes ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec11_m
 16-17
 {{< tdclose >}}
 {{< tdopen >}}
-Flat morphisms and descent ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec12_flat))
+Flat morphisms and descent ({{% resource_link abf8e0d9-14ab-28e7-d82b-156fa18c0dce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ Flat morphisms and descent ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec12_f
 17-18
 {{< tdclose >}}
 {{< tdopen >}}
-Differentials ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec13_differentials))
+Differentials ({{% resource_link 922efb49-131c-1270-1239-4d6643d350cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +146,7 @@ Differentials ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec13_differentials)
 18-19
 {{< tdclose >}}
 {{< tdopen >}}
-Divisors ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec14_divisors))
+Divisors ({{% resource_link 8a4942ee-8bc6-70eb-7eb6-ab70b4c51e91 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Divisors ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec14_divisors))
 19-20
 {{< tdclose >}}
 {{< tdopen >}}
-Divisors on curves ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec15_divisors2))
+Divisors on curves ({{% resource_link 61d8135f-20b0-57eb-eee0-f387e612985a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +164,7 @@ Divisors on curves ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec15_divisors2
 21-23
 {{< tdclose >}}
 {{< tdopen >}}
-Homological algebra ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec16_homalg))
+Homological algebra ({{% resource_link 738060c0-a52a-5982-c224-dd62c3fd68c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +173,7 @@ Homological algebra ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec16_homalg))
 24-26
 {{< tdclose >}}
 {{< tdopen >}}
-Sheaf cohomology ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec17_sheafcoh))
+Sheaf cohomology ({{% resource_link 229cc882-8f78-8263-05f4-6b132314656e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +182,7 @@ Sheaf cohomology ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec17_sheafcoh))
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Cohomology of quasicoherent sheaves ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec18_sheafquasi))
+Cohomology of quasicoherent sheaves ({{% resource_link e0e3bd5f-30ea-c18a-d2fd-1e5cbebf2864 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Cohomology of quasicoherent sheaves ([PDF]({{< baseurl >}}/resources/mit18_726s0
 27-29
 {{< tdclose >}}
 {{< tdopen >}}
-Cohomology of projective spaces ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec19_cohomproj))
+Cohomology of projective spaces ({{% resource_link da2b637d-79c2-c9d1-3d20-8a04fd47b21c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +200,7 @@ Cohomology of projective spaces ([PDF]({{< baseurl >}}/resources/mit18_726s09_le
 29-30
 {{< tdclose >}}
 {{< tdopen >}}
-Hilbert polynomials ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec20_hilbpoly))
+Hilbert polynomials ({{% resource_link 7bec7185-8a6e-05ad-f2ee-9c1e419b4aa6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +209,7 @@ Hilbert polynomials ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec20_hilbpoly
 30-33
 {{< tdclose >}}
 {{< tdopen >}}
-GAGA ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec22_gaga))
+GAGA ({{% resource_link 1329d392-3b9f-2d55-ec7a-9ec8e9cb63e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +218,7 @@ GAGA ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec22_gaga))
 33-34
 {{< tdclose >}}
 {{< tdopen >}}
-Serre duality for projective space ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec23_serre_dual_proj))
+Serre duality for projective space ({{% resource_link 3e1b3cc3-a5b2-d36c-6d0b-bfe4730101ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Serre duality for projective space ([PDF]({{< baseurl >}}/resources/mit18_726s09
 35-36
 {{< tdclose >}}
 {{< tdopen >}}
-Dualizing sheaves and Riemann-Roch ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec24_dualizing))
+Dualizing sheaves and Riemann-Roch ({{% resource_link be1fa559-e68b-a14f-8cef-b4484bc54de1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +236,7 @@ Dualizing sheaves and Riemann-Roch ([PDF]({{< baseurl >}}/resources/mit18_726s09
 36-37
 {{< tdclose >}}
 {{< tdopen >}}
-Cohen-Macaulay schemes and Serre duality ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec25_serre_dual))
+Cohen-Macaulay schemes and Serre duality ({{% resource_link 0ea66a0b-dcf4-f812-7c82-6882531f1642 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +245,7 @@ Cohen-Macaulay schemes and Serre duality ([PDF]({{< baseurl >}}/resources/mit18_
 38
 {{< tdclose >}}
 {{< tdopen >}}
-Higher Riemann-Roch ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec26_higher_riemann_roch))
+Higher Riemann-Roch ({{% resource_link 04b88b86-e636-4cac-8c3f-9d20d984dbc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,11 +254,11 @@ Higher Riemann-Roch ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec26_higher_r
 39
 {{< tdclose >}}
 {{< tdopen >}}
-Étale cohomology ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec27_etale_cohom))
+Étale cohomology ({{% resource_link c5565e80-6c03-cff4-8df5-6b0efae3b3e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-These notes on spectral sequences and Cech cohomology were not covered during lecture ([PDF]({{< baseurl >}}/resources/mit18_726s09_lec21_spectral)).
+These notes on spectral sequences and Cech cohomology were not covered during lecture ({{% resource_link 587b91ca-dc83-f2f4-1679-3c58befe058a "PDF" %}}).
