@@ -7,6 +7,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/dd1038eb33c62da203ec2b6a040
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Schemes
 uid: dd1038eb-33c6-2da2-03ec-2b6a0409a0f3
 ---
 Lecture notes on locally ringed spaces, the prime spectrum of a ring, a presheaf of rings, the fundamental theorem of aﬃne schemes, schemes by glueing, and examples of glueing.
-

@@ -6,6 +6,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/f20e0e9cada2de9f19ed6718a94
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sheaves
 uid: f20e0e9c-ada2-de9f-19ed-6718a94371f5
 ---
 Lecture notes on presheaves, sheaves, Deﬁning sheaves on a basis, stalks, morphisms, sheaﬁﬁcation, and direct and inverse image.
-

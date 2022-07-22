@@ -6,6 +6,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/db765c65b2e44272d96066e05d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: More on abelian sheaves
 uid: db765c65-b2e4-4272-d960-66e05d07e0cb
 ---
 Lecture notes on sheaves, abelian groups, exact functors, and abelian categories.
-

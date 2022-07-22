@@ -7,6 +7,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/738060c0a52a5982c224dd62c3f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Homological algebra
 uid: 738060c0-a52a-5982-c224-dd62c3fd68c0
 ---
 Lecture notes on homological algebra, abelian categories, complexes and exact sequences, the long exact sequence in cohomology, cohomological functors, derived functors, and examples.
-

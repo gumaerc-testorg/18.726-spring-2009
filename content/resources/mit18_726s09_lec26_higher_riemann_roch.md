@@ -7,6 +7,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/04b88b86e6364cac8c3f9d20d98
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Higher Riemann-Roch
 uid: 04b88b86-e636-4cac-8c3f-9d20d984dbc6
 ---
 Lecture notes on higher-dimensional versions of the Riemann-Roch theo­rem: the Riemann-Roch theorem for surfaces, the Hirzebruch-Riemann-Roch theorem, and the Grothendieck-Riemann-Roch theorem.
-

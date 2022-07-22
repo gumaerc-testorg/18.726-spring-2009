@@ -6,6 +6,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/abf8e0d914ab28e7d82b156fa18
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Flat morphisms and descent '
 uid: abf8e0d9-14ab-28e7-d82b-156fa18c0dce
 ---
 Lecture notes on flat sheaves, ﬂat morphisms, faithfully ﬂat morphisms, and descent.
-

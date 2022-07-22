@@ -6,6 +6,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/8a4942ee8bc670eb7eb6ab70b4c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Divisors, linear systems, and projective embeddings
 uid: 8a4942ee-8bc6-70eb-7eb6-ab70b4c51e91
 ---
 Lecture notes on Weil divisors, Cartier divisors, the Picard group, and Linear systems.
-

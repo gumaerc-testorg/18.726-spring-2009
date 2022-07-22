@@ -7,6 +7,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/7f9d4e4e86856aa4b6788b568db
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Category theory
 uid: 7f9d4e4e-8685-6aa4-b678-8b568db4261f
 ---
 Lecture notes on set-theoretic diﬃculties, category theory, functors and natural transformations, representable functors, Yoneda’s lemma, uni­versal properties, limits and colimits, and adjoint functors.
-

@@ -5,6 +5,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/0ea66a0bdcf4f8127c826882531
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Cohen-Macaulay schemes and Serre duality
 uid: 0ea66a0b-dcf4-f812-7c82-6882531f1642
 ---
 Lecture notes on Cohen-Macaulay schemes and Serre duality.
-

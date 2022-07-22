@@ -6,6 +6,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/7bec71858a6e05adf2ee9c1e419
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Hilbert polynomials and \uFB02atness"
 uid: 7bec7185-8a6e-05ad-f2ee-9c1e419b4aa6
 ---
 Lecture notes on Hilbert polynomials, flatness, schemes, degree, and dimension.
-

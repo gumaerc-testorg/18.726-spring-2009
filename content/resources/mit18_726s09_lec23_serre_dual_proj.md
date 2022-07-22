@@ -6,6 +6,7 @@ file: /courses/18-726-algebraic-geometry-spring-2009/3e1b3cc3a5b2d36c6d0bbfe4730
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Serre duality for projective space
 uid: 3e1b3cc3-a5b2-d36c-6d0b-bfe4730101ce
 ---
 Lecture notes on Serre duality for projective space, Ext groups, and differentials and duality.
-
