@@ -3,6 +3,7 @@ content_type: resource
 description: "Lecture notes on cohomology of quasicoherent sheaves, applications,\
   \ proof of the theorem, and comparison of \u010Cech and sheaf cohomology."
 file: /courses/18-726-algebraic-geometry-spring-2009/e0e3bd5f30eac18ad2fd1e5cbebf2864_MIT18_726s09_lec18_sheafquasi.pdf
+file_size: 147115
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

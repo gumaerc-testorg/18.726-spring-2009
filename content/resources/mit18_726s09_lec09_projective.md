@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on projective morphisms, sheaves, and closed subschemes
   of projective spaces.
 file: /courses/18-726-algebraic-geometry-spring-2009/9a1598a1423305b49e4fb064b437a952_MIT18_726s09_lec09_projective.pdf
+file_size: 94801
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on sheaves, abelian groups, exact functors, and abelian
   categories.
 file: /courses/18-726-algebraic-geometry-spring-2009/db765c65b2e44272d96066e05d07e0cb_MIT18_726s09_lec04_abelian_sheaves.pdf
+file_size: 90534
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
