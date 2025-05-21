@@ -4,7 +4,7 @@ description: "Lecture notes on \u010Cech cohomology, Serre\u2019s computation of
   \ cohomology of the twisting sheaves on projective space, Serre\u2019s \uFB01niteness\
   \ theorem, finitely generated sheaves, and finiteness of cohomology on projective\
   \ schemes."
-file: /ol-ocw-studio-app/courses/18-726-algebraic-geometry-spring-2009/da2b637d79c2c9d13d208a04fd47b21c_MIT18_726s09_lec19_cohomproj.pdf
+file: /courses/18-726-algebraic-geometry-spring-2009/da2b637d79c2c9d13d208a04fd47b21c_MIT18_726s09_lec19_cohomproj.pdf
 file_size: 148988
 file_type: application/pdf
 learning_resource_types:

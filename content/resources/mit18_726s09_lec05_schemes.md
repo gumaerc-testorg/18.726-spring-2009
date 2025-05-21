@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture notes on locally ringed spaces, the prime spectrum of a ring,\
   \ a presheaf of rings, the fundamental theorem of a\uFB03ne schemes, schemes by\
   \ glueing, and examples of glueing."
-file: /ol-ocw-studio-app/courses/18-726-algebraic-geometry-spring-2009/dd1038eb33c62da203ec2b6a0409a0f3_MIT18_726s09_lec05_schemes.pdf
+file: /courses/18-726-algebraic-geometry-spring-2009/dd1038eb33c62da203ec2b6a0409a0f3_MIT18_726s09_lec05_schemes.pdf
 file_size: 120711
 file_type: application/pdf
 learning_resource_types:
