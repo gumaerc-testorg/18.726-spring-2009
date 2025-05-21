@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on presheaves, sheaves, De\uFB01ning sheaves on a basis,\
   \ stalks, morphisms, shea\uFB01\uFB01cation, and direct and inverse image."
-file: /ol-ocw-studio-app/courses/18-726-algebraic-geometry-spring-2009/f20e0e9cada2de9f19ed6718a94371f5_MIT18_726s09_lec03_sheaves.pdf
+file: /courses/18-726-algebraic-geometry-spring-2009/f20e0e9cada2de9f19ed6718a94371f5_MIT18_726s09_lec03_sheaves.pdf
 file_size: 122656
 file_type: application/pdf
 learning_resource_types:

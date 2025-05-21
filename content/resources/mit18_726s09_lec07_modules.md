@@ -4,7 +4,7 @@ description: Lecture notes on sheaves of modules over a locally ringed space, wi
   an emphasis on the situation for schemes, direct and inverse image, quasicoherent
   sheaves of modules, relative spec, ideal sheaves, closed immersions, separated schemes
   and morphisms, separatedness, and base change.
-file: /ol-ocw-studio-app/courses/18-726-algebraic-geometry-spring-2009/1645cd9df8a4e354c707fb7187903baf_MIT18_726s09_lec07_modules.pdf
+file: /courses/18-726-algebraic-geometry-spring-2009/1645cd9df8a4e354c707fb7187903baf_MIT18_726s09_lec07_modules.pdf
 file_size: 98677
 file_type: application/pdf
 learning_resource_types:

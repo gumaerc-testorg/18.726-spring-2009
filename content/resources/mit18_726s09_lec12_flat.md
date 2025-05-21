@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on flat sheaves, \uFB02at morphisms, faithfully \uFB02\
   at morphisms, and descent."
-file: /ol-ocw-studio-app/courses/18-726-algebraic-geometry-spring-2009/abf8e0d914ab28e7d82b156fa18c0dce_MIT18_726s09_lec12_flat.pdf
+file: /courses/18-726-algebraic-geometry-spring-2009/abf8e0d914ab28e7d82b156fa18c0dce_MIT18_726s09_lec12_flat.pdf
 file_size: 95420
 file_type: application/pdf
 learning_resource_types:
