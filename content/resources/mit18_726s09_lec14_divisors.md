@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on Weil divisors, Cartier divisors, the Picard group, and
   Linear systems.
-file: /ol-ocw-studio-app/courses/18-726-algebraic-geometry-spring-2009/8a4942ee8bc670eb7eb6ab70b4c51e91_MIT18_726s09_lec14_divisors.pdf
+file: /courses/18-726-algebraic-geometry-spring-2009/8a4942ee8bc670eb7eb6ab70b4c51e91_MIT18_726s09_lec14_divisors.pdf
 file_size: 117038
 file_type: application/pdf
 learning_resource_types:

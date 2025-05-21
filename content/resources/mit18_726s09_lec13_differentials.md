@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on the module of K\xE4hler differentials, the sheaf of\
   \ K\xE4hler di\uFB00erentials, and smooth, unrami\uFB01ed, and \xC9tale morphisms."
-file: /ol-ocw-studio-app/courses/18-726-algebraic-geometry-spring-2009/922efb49131c127012394d6643d350cc_MIT18_726s09_lec13_differentials.pdf
+file: /courses/18-726-algebraic-geometry-spring-2009/922efb49131c127012394d6643d350cc_MIT18_726s09_lec13_differentials.pdf
 file_size: 86814
 file_type: application/pdf
 learning_resource_types:
