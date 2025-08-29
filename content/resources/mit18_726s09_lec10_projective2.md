@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on projective morphisms, relative Proj, very ample sheaves,\
   \ blowups, and Chow\u2019s lemma."
-file: /courses/18-726-algebraic-geometry-spring-2009/28085dd99a56c6c2dff04287b7c92a43_MIT18_726s09_lec10_projective2.pdf
+file: /ol-ocw-studio-app/courses/18-726-algebraic-geometry-spring-2009/28085dd99a56c6c2dff04287b7c92a43_MIT18_726s09_lec10_projective2.pdf
 file_size: 76952
 file_type: application/pdf
 learning_resource_types:
